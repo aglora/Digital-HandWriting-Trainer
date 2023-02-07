@@ -1,0 +1,13 @@
+"./DelayPro.obj"
+"./DigitalHWTrainer.obj"
+"./HAL_I2C.obj"
+"./PheripheralConfigurationLibrary.obj"
+"./Serpiente_Mq_estados.obj"
+"./ft800_TIVA.obj"
+"./testSonido.obj"
+"./tm4c1294ncpdt_startup_ccs.obj"
+"./uartstdio.obj"
+"../SENSORLIB2.lib"
+"D:/CodeComposer/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
+"../tm4c1294ncpdt.cmd"
+-llibc.a
