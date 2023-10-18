@@ -2,8 +2,8 @@
 Proyecto Microcontrolador TIVA-TM4C1294 de Texas Instruments con pantalla VM800 táctil resistiva de FTDI consistente en el desarrollo software de sistema de aprendizaje de escritura manual para niños.
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/5.png" width="400" />
-  <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/6.png" width="400" />
+  <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/5.png" width="500" />
+  <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/6.png" width="300" />
 </div>
 
 La documentación completa está disponible en la memoria de trabajo. 
