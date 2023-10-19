@@ -24,5 +24,7 @@ Algunas imagenes de la interfaz de la herramienta desarrollada:
   <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/imgs/2.png" width="400" />
 </div>
 
-Demostracion de uso:
+
+Demostración de uso:
+
 <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/imgs/demo.gif" width="400" />
