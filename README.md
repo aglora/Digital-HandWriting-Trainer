@@ -28,3 +28,8 @@ Algunas imagenes de la interfaz de la herramienta desarrollada:
 Demostración de uso:
 
 <img src="https://github.com/aglora/Digital-HandWriting-Trainer/blob/main/imgs/demo.gif" width="800" />
+
+
+## Authors
+[RoboticsLeon](https://github.com/RoboticsLeon) //
+[aglora](https://github.com/aglora) 
